@@ -21,6 +21,8 @@ using Microsoft.eShopWeb.Web.Pages;
 using Microsoft.FeatureManagement;
 using Microsoft.IdentityModel.Tokens;
 
+//My1stCommit
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Logging.AddConsole();
